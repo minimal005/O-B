@@ -1,6 +1,6 @@
 # Bang & Olufsen Landing Page
 
-![Bang & Olufsen](./images/logo-2x.png)
+![Bang & Olufsen](./src/images/logo-2x.png)
 
 ## 🌐 Project Description
 
