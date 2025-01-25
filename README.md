@@ -1,7 +1,5 @@
 # Bang & Olufsen Landing Page
 
-![Bang & Olufsen](./src/images/logo-2x.png)
-
 ## 🌐 Project Description
 
 **Bang & Olufsen Landing Page** is a stylish and responsive web page showcasing the brand's modern design, premium audio products, and rich history. The page features engaging sections for recommended products, categories, brand information, and contact details, providing a seamless user experience.
@@ -37,7 +35,3 @@
 ## 🚀 Demolink
 
 [Bang & Olufsen](https://minimal005.github.io/O-B/)
-
-```
-
-```
